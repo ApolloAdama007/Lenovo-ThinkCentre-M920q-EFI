@@ -1,0 +1,1 @@
+# Lenovo-ThinkCentre-M920q-EFI
