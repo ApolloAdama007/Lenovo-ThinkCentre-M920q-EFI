@@ -13,3 +13,4 @@ https://blog.terrychan.me/2020/lenovo-m920q-macos-catalina
 
 EFI secondary link:
 https://www.mediafire.com/file/48s21e6dwgaqrrx/06_-_ThinkCentre_M920q-i7-8700T-UHD630.zip/file
+Zip Password: zbc06donpmvdwj67
